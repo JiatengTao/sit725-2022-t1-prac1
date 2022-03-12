@@ -1,2 +1,2 @@
 # prac1sit725
-hwo to create a app
+how to create a app
